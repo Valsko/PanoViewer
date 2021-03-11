@@ -1,0 +1,18 @@
+INTRODUCTION :
+
+Rappel du sujet: NaoStreetView
+
+Le but est de faire parcourir la salle à un robot NAO, en lui faisant, pendant ce parcours, éviter les obstacles et prendre 
+des clichés en 360 de la salle.
+On transferts ensuite les clichés à un logiciel de reproduction qui va créer à partir de plusieurs clichés un panorama
+On permet ensuite à l'utilisateur de parcourir les panoramas via une application
+
+On a , au cours des premières séances réaliser les tâches de planification du projet,
+en construisant ensemble le cahier des charges du projet, mais aussi le diagramme de GANTT, le diagramme 
+bête à cornes, le QQOQCP.
+Une fois cette phase complétée on a donc pu commencer à coder.
+Au cours de cette présentation nous allons illustrer l'avancement du projet, en énumérant
+chacun notre tour l'ensemble du travail accompli depuis le début de la phase de développement, mais 
+également s'il y en les problématiques rencontrées, et le travail qu'il nous restant.
+
+--> Parole à guillaume, équipe déplacement/esquive des obstacles

@@ -1,0 +1,9 @@
+var scenes = [s,s2,s3,s4,s5];
+
+
+function trouverScene(x,y){    //retourne la scene correspondante aux coordonnées données en parametre
+    for(var i=0; i<scenes.length;i++){
+        if(scenes[i].position.x == x && scenes[i].position.y == y)
+            return scenes[i];
+    }
+}
